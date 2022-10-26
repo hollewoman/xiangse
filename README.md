@@ -10,3 +10,5 @@ https://github.com/hollewoman/xiangse/blob/main/mengqi.xbs</br>
 https://github.com/hollewoman/xiangse/blob/main/piaoran.xbs</br>
 5.🐠四五中文
 https://github.com/hollewoman/xiangse/blob/main/siwu.xbs</br>
+6.🐠幽梦雨声
+https://github.com/hollewoman/xiangse/blob/main/youmengyusheng.xbs</br>
