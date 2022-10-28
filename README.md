@@ -12,3 +12,5 @@ https://github.com/hollewoman/xiangse/blob/main/piaoran.xbs</br>
 https://github.com/hollewoman/xiangse/blob/main/siwu.xbs</br>
 6.🐠幽梦雨声
 https://github.com/hollewoman/xiangse/blob/main/youmengyusheng.xbs</br>
+7.🐠书仓网
+https://github.com/hollewoman/xiangse/blob/main/youmengyusheng.xbs</br>
