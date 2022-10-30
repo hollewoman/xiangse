@@ -14,5 +14,7 @@ https://github.com/hollewoman/xiangse/blob/main/xs/siwu.xbs</br>
 https://github.com/hollewoman/xiangse/blob/main/xs/youmengyusheng.xbs</br>
 7.🐠书仓网
 https://github.com/hollewoman/xiangse/blob/main/xs/youmengyusheng.xbs</br>
-8.梁羽生小说
-9.爱豆看书
+8.🐠梁羽生小说
+https://github.com/hollewoman/xiangse/blob/main/xs/youmengyusheng.xbs</br>
+9.🐠爱豆看书
+https://github.com/hollewoman/xiangse/blob/main/xs/aidoukanshu.xbs</br>
